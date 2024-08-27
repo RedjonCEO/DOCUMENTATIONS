@@ -1,5 +1,0 @@
-
-```abap
-LOOP.
-ENDLOOP.
-```
